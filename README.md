@@ -1,4 +1,4 @@
-# Knowledg Base
+# Knowledge Base
 A place to collect, organize and share programming and architectural knowledge.
 
 ## Usage
